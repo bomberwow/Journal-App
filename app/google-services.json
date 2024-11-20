@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017692753225",
+    "project_id": "selfjournn",
+    "storage_bucket": "selfjournn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017692753225:android:d2cb77fa7eab804b585e98",
+        "android_client_info": {
+          "package_name": "com.spirovski.selfjourn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL4_yKW2en4u5MuBV9kR6SaXwnP2bOvdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
